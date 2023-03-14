@@ -1,0 +1,11 @@
+C:\Users\BAPS\source\repos\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\BAPS\source\repos\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\BAPS\source\repos\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\BAPS\source\repos\LoginRegister\obj\Debug\LoginRegister.csproj.AssemblyReference.cache
+C:\Users\BAPS\source\repos\LoginRegister\obj\Debug\LoginRegister.AboutBox1.resources
+C:\Users\BAPS\source\repos\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\BAPS\source\repos\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
+C:\Users\BAPS\source\repos\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\BAPS\source\repos\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\BAPS\source\repos\LoginRegister\obj\Debug\LoginRegister.pdb
+C:\Users\BAPS\source\repos\LoginRegister\obj\Debug\LoginRegister.app.resources
